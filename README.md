@@ -89,7 +89,7 @@ The analysis was conducted through the use of a Jupyter Notebook which can be vi
 
 *What is the total time I have spent listening to Apple Music?*
 <img
-  src="Graph-Images/Output_48_0.png"
+  src="Graph-Images/output_48_0.png"
   alt=""
   title=""
   style="display: inline-block; margin: 0 auto; max-width: 60vw"/>
