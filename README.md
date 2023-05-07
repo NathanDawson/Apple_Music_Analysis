@@ -18,7 +18,7 @@ The analysis was conducted through the use of a Jupyter Notebook which can be vi
   title="Heatmap"
   style="display: inline-block; margin: 0 auto; max-width: 60vw"/>
 
-*The DataFrame has many columns which have all NULL values, with such columns needing to be removed. The aim is to make the above HeatMap as dark as possible (i.e remove any white marks).*
+*The DataFrame has many columns which have all NULL values, with such columns needing to be removed. The aim is to make the above HeatMap as dark as possible (i.e remove any white marks). Once these columns are removed, data analysis can start.*
   
 <br>
 
@@ -89,7 +89,7 @@ The analysis was conducted through the use of a Jupyter Notebook which can be vi
 
 *What is the total time I have spent listening to Apple Music?*
 <img
-  src="Graph-Images/Top_10_Artists.png"
+  src="Graph-Images/Output_48_0.png"
   alt=""
   title=""
   style="display: inline-block; margin: 0 auto; max-width: 60vw"/>
