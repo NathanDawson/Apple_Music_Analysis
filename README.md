@@ -1,5 +1,5 @@
 # Apple_Music_Analysis
-A short data analysis project exploring my personal music streaming data from Apple Music. The dataset used here showcases my personal streaming on the platform.
+A short data analysis project delving into my personal music streaming data from Apple Music, offering insights into my music listening habits, preferences, and trends over time.
 
 The analysis was conducted through the use of a Jupyter Notebook which can be viewed [here](https://nbviewer.org/github/NathanDawson/Apple_Music_Analysis/blob/main/Apple_Music.ipynb).
 
